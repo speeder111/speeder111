@@ -2,7 +2,7 @@
 - 👀 I’m interested in API
 - 🌱 I’m currently learning Lua and Typescript
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me vylw on Discord
+- 📫 How to reach me: vylw on Discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a noob
 
